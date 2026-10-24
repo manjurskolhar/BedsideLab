@@ -1,0 +1,10 @@
+{
+  "name": "bedsidelab-nursing-clinical-judgment",
+  "version": "1.0.0",
+  "description": "Self-hosted nursing clinical judgment practicum: case-based activities on realistic patient charts, a training EHR and auto-scored Next Generation NCLEX-style items",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "demo": "node server.js --demo", "build-content": "sh tools/build-all.sh" },
+  "engines": { "node": ">=22.16.0" },
+  "license": "UNLICENSED",
+  "private": true
+}

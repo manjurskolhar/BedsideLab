@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Case 4: Lost in Translation: Discharge Teaching with an Interpreter">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E7C86"/><stop offset="1" stop-color="#07474E"/></linearGradient></defs>
+<rect width="120" height="120" rx="22" fill="url(#g)"/>
+<circle cx="96" cy="22" r="34" fill="#fff" opacity=".07"/><circle cx="18" cy="108" r="26" fill="#fff" opacity=".06"/>
+<g transform="translate(30 16) scale(2.5)" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5h10v7H7l-4 3z"/><path d="M11 14h3l4 3v-3h3V8h-6"/><path d="M6 8h4M8 7v1c0 1.5-1 2.5-2 3"/></g>
+<text x="60" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#fff" letter-spacing="1">CASE 4</text>
+</svg>

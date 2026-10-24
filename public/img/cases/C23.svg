@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Case 23: Too Many Pills: Polypharmacy and Falls in an Older Adult">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2E7D32"/><stop offset="1" stop-color="#1B4D1E"/></linearGradient></defs>
+<rect width="120" height="120" rx="22" fill="url(#g)"/>
+<circle cx="96" cy="22" r="34" fill="#fff" opacity=".07"/><circle cx="18" cy="108" r="26" fill="#fff" opacity=".06"/>
+<g transform="translate(30 16) scale(2.5)" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="9" width="10" height="6" rx="3"/><path d="M8 9v6"/><circle cx="17" cy="8" r="3.5"/><path d="M14.5 10.5l5-5"/><circle cx="16.5" cy="17" r="3"/></g>
+<text x="60" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#fff" letter-spacing="1">CASE 23</text>
+</svg>

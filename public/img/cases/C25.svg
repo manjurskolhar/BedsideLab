@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Case 25: Asking the Hard Question: Suicide Risk After an Intentional Overdose">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6A3D8F"/><stop offset="1" stop-color="#3E2157"/></linearGradient></defs>
+<rect width="120" height="120" rx="22" fill="url(#g)"/>
+<circle cx="96" cy="22" r="34" fill="#fff" opacity=".07"/><circle cx="18" cy="108" r="26" fill="#fff" opacity=".06"/>
+<g transform="translate(30 16) scale(2.5)" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3.5"/><path d="M9.5 9.5L6.5 6.5M14.5 9.5l3-3M9.5 14.5l-3 3M14.5 14.5l3 3"/></g>
+<text x="60" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#fff" letter-spacing="1">CASE 25</text>
+</svg>

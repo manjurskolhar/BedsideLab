@@ -1,0 +1,398 @@
+[
+ {
+  "id": "S-C01",
+  "file": "Case_1_Perinatal_Loss_Therapeutic_Communication_After_a_Stillbirth.docx",
+  "name": "Case_1_Perinatal_Loss_Therapeutic_Communication_After_a_Stillbirth.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C01",
+  "file": "Case_1_Perinatal_Loss_Therapeutic_Communication_After_a_Stillbirth_ANSWER_KEY.docx",
+  "name": "Case_1_Perinatal_Loss_Therapeutic_Communication_After_a_Stillbirth_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C02",
+  "file": "Case_2_Hard_News_Responding_to_a_New_Lung_Cancer_Diagnosis.docx",
+  "name": "Case_2_Hard_News_Responding_to_a_New_Lung_Cancer_Diagnosis.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C02",
+  "file": "Case_2_Hard_News_Responding_to_a_New_Lung_Cancer_Diagnosis_ANSWER_KEY.docx",
+  "name": "Case_2_Hard_News_Responding_to_a_New_Lung_Cancer_Diagnosis_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C03",
+  "file": "Case_3_Faith_Fasting_and_Diabetes_Culturally_Responsive_Teaching_Before_Ramadan.docx",
+  "name": "Case_3_Faith_Fasting_and_Diabetes_Culturally_Responsive_Teaching_Before_Ramadan.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C03",
+  "file": "Case_3_Faith_Fasting_and_Diabetes_Culturally_Responsive_Teaching_Before_Ramadan_ANSWER_KEY.docx",
+  "name": "Case_3_Faith_Fasting_and_Diabetes_Culturally_Responsive_Teaching_Before_Ramadan_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C04",
+  "file": "Case_4_Lost_in_Translation_Discharge_Teaching_with_an_Interpreter.docx",
+  "name": "Case_4_Lost_in_Translation_Discharge_Teaching_with_an_Interpreter.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C04",
+  "file": "Case_4_Lost_in_Translation_Discharge_Teaching_with_an_Interpreter_ANSWER_KEY.docx",
+  "name": "Case_4_Lost_in_Translation_Discharge_Teaching_with_an_Interpreter_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C05",
+  "file": "Case_5_Calm_in_the_Storm_De_escalation_in_Alcohol_Withdrawal.docx",
+  "name": "Case_5_Calm_in_the_Storm_De_escalation_in_Alcohol_Withdrawal.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C05",
+  "file": "Case_5_Calm_in_the_Storm_De_escalation_in_Alcohol_Withdrawal_ANSWER_KEY.docx",
+  "name": "Case_5_Calm_in_the_Storm_De_escalation_in_Alcohol_Withdrawal_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C06",
+  "file": "Case_6_Spinal_Cord_Injury_Prioritizing_Care_for_an_Adolescent_with_Tetraplegia.docx",
+  "name": "Case_6_Spinal_Cord_Injury_Prioritizing_Care_for_an_Adolescent_with_Tetraplegia.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C06",
+  "file": "Case_6_Spinal_Cord_Injury_Prioritizing_Care_for_an_Adolescent_with_Tetraplegia_ANSWER_KEY.docx",
+  "name": "Case_6_Spinal_Cord_Injury_Prioritizing_Care_for_an_Adolescent_with_Tetraplegia_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C07",
+  "file": "Case_7_The_Quiet_Slide_Recognizing_Early_Sepsis_After_Surgery.docx",
+  "name": "Case_7_The_Quiet_Slide_Recognizing_Early_Sepsis_After_Surgery.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C07",
+  "file": "Case_7_The_Quiet_Slide_Recognizing_Early_Sepsis_After_Surgery_ANSWER_KEY.docx",
+  "name": "Case_7_The_Quiet_Slide_Recognizing_Early_Sepsis_After_Surgery_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C08",
+  "file": "Case_8_Breathless_at_Night_Acute_Decompensated_Heart_Failure.docx",
+  "name": "Case_8_Breathless_at_Night_Acute_Decompensated_Heart_Failure.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C08",
+  "file": "Case_8_Breathless_at_Night_Acute_Decompensated_Heart_Failure_ANSWER_KEY.docx",
+  "name": "Case_8_Breathless_at_Night_Acute_Decompensated_Heart_Failure_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C09",
+  "file": "Case_9_Fruity_Breath_Diabetic_Ketoacidosis_in_a_Teenager.docx",
+  "name": "Case_9_Fruity_Breath_Diabetic_Ketoacidosis_in_a_Teenager.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C09",
+  "file": "Case_9_Fruity_Breath_Diabetic_Ketoacidosis_in_a_Teenager_ANSWER_KEY.docx",
+  "name": "Case_9_Fruity_Breath_Diabetic_Ketoacidosis_in_a_Teenager_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C10",
+  "file": "Case_10_Time_Is_Brain_Acute_Ischemic_Stroke_in_the_Emergency_Department.docx",
+  "name": "Case_10_Time_Is_Brain_Acute_Ischemic_Stroke_in_the_Emergency_Department.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C10",
+  "file": "Case_10_Time_Is_Brain_Acute_Ischemic_Stroke_in_the_Emergency_Department_ANSWER_KEY.docx",
+  "name": "Case_10_Time_Is_Brain_Acute_Ischemic_Stroke_in_the_Emergency_Department_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C11",
+  "file": "Case_11_A_Dangerous_Combination_Acute_Kidney_Injury_and_Hyperkalemia.docx",
+  "name": "Case_11_A_Dangerous_Combination_Acute_Kidney_Injury_and_Hyperkalemia.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C11",
+  "file": "Case_11_A_Dangerous_Combination_Acute_Kidney_Injury_and_Hyperkalemia_ANSWER_KEY.docx",
+  "name": "Case_11_A_Dangerous_Combination_Acute_Kidney_Injury_and_Hyperkalemia_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C12",
+  "file": "Case_12_The_First_Hour_Postpartum_Hemorrhage.docx",
+  "name": "Case_12_The_First_Hour_Postpartum_Hemorrhage.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C12",
+  "file": "Case_12_The_First_Hour_Postpartum_Hemorrhage_ANSWER_KEY.docx",
+  "name": "Case_12_The_First_Hour_Postpartum_Hemorrhage_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C13",
+  "file": "Case_13_Preeclampsia_with_Severe_Features_Magnesium_Sulfate_Safety.docx",
+  "name": "Case_13_Preeclampsia_with_Severe_Features_Magnesium_Sulfate_Safety.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C13",
+  "file": "Case_13_Preeclampsia_with_Severe_Features_Magnesium_Sulfate_Safety_ANSWER_KEY.docx",
+  "name": "Case_13_Preeclampsia_with_Severe_Features_Magnesium_Sulfate_Safety_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C14",
+  "file": "Case_14_Too_Quiet_at_03_00_Opioid_Induced_Respiratory_Depression.docx",
+  "name": "Case_14_Too_Quiet_at_03_00_Opioid_Induced_Respiratory_Depression.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C14",
+  "file": "Case_14_Too_Quiet_at_03_00_Opioid_Induced_Respiratory_Depression_ANSWER_KEY.docx",
+  "name": "Case_14_Too_Quiet_at_03_00_Opioid_Induced_Respiratory_Depression_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C15",
+  "file": "Case_15_Fifteen_Minutes_In_Acute_Transfusion_Reaction.docx",
+  "name": "Case_15_Fifteen_Minutes_In_Acute_Transfusion_Reaction.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C15",
+  "file": "Case_15_Fifteen_Minutes_In_Acute_Transfusion_Reaction_ANSWER_KEY.docx",
+  "name": "Case_15_Fifteen_Minutes_In_Acute_Transfusion_Reaction_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C16",
+  "file": "Case_16_Minutes_Matter_Anaphylaxis_to_an_IV_Antibiotic.docx",
+  "name": "Case_16_Minutes_Matter_Anaphylaxis_to_an_IV_Antibiotic.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C16",
+  "file": "Case_16_Minutes_Matter_Anaphylaxis_to_an_IV_Antibiotic_ANSWER_KEY.docx",
+  "name": "Case_16_Minutes_Matter_Anaphylaxis_to_an_IV_Antibiotic_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C17",
+  "file": "Case_17_Shaky_and_Confused_Hypoglycemia_in_a_Hospitalized_Older_Adult.docx",
+  "name": "Case_17_Shaky_and_Confused_Hypoglycemia_in_a_Hospitalized_Older_Adult.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C17",
+  "file": "Case_17_Shaky_and_Confused_Hypoglycemia_in_a_Hospitalized_Older_Adult_ANSWER_KEY.docx",
+  "name": "Case_17_Shaky_and_Confused_Hypoglycemia_in_a_Hospitalized_Older_Adult_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C18",
+  "file": "Case_18_Every_Breath_Counts_Asthma_Exacerbation_in_a_School_Age_Child.docx",
+  "name": "Case_18_Every_Breath_Counts_Asthma_Exacerbation_in_a_School_Age_Child.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C18",
+  "file": "Case_18_Every_Breath_Counts_Asthma_Exacerbation_in_a_School_Age_Child_ANSWER_KEY.docx",
+  "name": "Case_18_Every_Breath_Counts_Asthma_Exacerbation_in_a_School_Age_Child_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C19",
+  "file": "Case_19_Sudden_Breathlessness_Pulmonary_Embolism_After_Hip_Replacement.docx",
+  "name": "Case_19_Sudden_Breathlessness_Pulmonary_Embolism_After_Hip_Replacement.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C19",
+  "file": "Case_19_Sudden_Breathlessness_Pulmonary_Embolism_After_Hip_Replacement_ANSWER_KEY.docx",
+  "name": "Case_19_Sudden_Breathlessness_Pulmonary_Embolism_After_Hip_Replacement_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C20",
+  "file": "Case_20_Shared_Decision_Making_in_Hypertension_and_Kidney_Disease_Part_1_Understanding_the_Person.docx",
+  "name": "Case_20_Shared_Decision_Making_in_Hypertension_and_Kidney_Disease_Part_1_Understanding_the_Person.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C20",
+  "file": "Case_20_Shared_Decision_Making_in_Hypertension_and_Kidney_Disease_Part_1_Understanding_the_Person_ANSWER_KEY.docx",
+  "name": "Case_20_Shared_Decision_Making_in_Hypertension_and_Kidney_Disease_Part_1_Understanding_the_Person_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C21",
+  "file": "Case_21_Shared_Decision_Making_in_Hypertension_and_Kidney_Disease_Part_2_Building_the_Plan_Together.docx",
+  "name": "Case_21_Shared_Decision_Making_in_Hypertension_and_Kidney_Disease_Part_2_Building_the_Plan_Together.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C21",
+  "file": "Case_21_Shared_Decision_Making_in_Hypertension_and_Kidney_Disease_Part_2_Building_the_Plan_Together_ANSWER_KEY.docx",
+  "name": "Case_21_Shared_Decision_Making_in_Hypertension_and_Kidney_Disease_Part_2_Building_the_Plan_Together_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C22",
+  "file": "Case_22_A_New_Ileostomy_Teaching_Self_Care_Before_Discharge.docx",
+  "name": "Case_22_A_New_Ileostomy_Teaching_Self_Care_Before_Discharge.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C22",
+  "file": "Case_22_A_New_Ileostomy_Teaching_Self_Care_Before_Discharge_ANSWER_KEY.docx",
+  "name": "Case_22_A_New_Ileostomy_Teaching_Self_Care_Before_Discharge_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C23",
+  "file": "Case_23_Too_Many_Pills_Polypharmacy_and_Falls_in_an_Older_Adult.docx",
+  "name": "Case_23_Too_Many_Pills_Polypharmacy_and_Falls_in_an_Older_Adult.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C23",
+  "file": "Case_23_Too_Many_Pills_Polypharmacy_and_Falls_in_an_Older_Adult_ANSWER_KEY.docx",
+  "name": "Case_23_Too_Many_Pills_Polypharmacy_and_Falls_in_an_Older_Adult_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C24",
+  "file": "Case_24_Yellow_on_Day_3_Newborn_Jaundice_and_Breastfeeding_Support.docx",
+  "name": "Case_24_Yellow_on_Day_3_Newborn_Jaundice_and_Breastfeeding_Support.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C24",
+  "file": "Case_24_Yellow_on_Day_3_Newborn_Jaundice_and_Breastfeeding_Support_ANSWER_KEY.docx",
+  "name": "Case_24_Yellow_on_Day_3_Newborn_Jaundice_and_Breastfeeding_Support_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C25",
+  "file": "Case_25_Asking_the_Hard_Question_Suicide_Risk_After_an_Intentional_Overdose.docx",
+  "name": "Case_25_Asking_the_Hard_Question_Suicide_Risk_After_an_Intentional_Overdose.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C25",
+  "file": "Case_25_Asking_the_Hard_Question_Suicide_Risk_After_an_Intentional_Overdose_ANSWER_KEY.docx",
+  "name": "Case_25_Asking_the_Hard_Question_Suicide_Risk_After_an_Intentional_Overdose_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C26",
+  "file": "Case_26_Narrow_Margin_Lithium_Toxicity_in_Bipolar_Disorder.docx",
+  "name": "Case_26_Narrow_Margin_Lithium_Toxicity_in_Bipolar_Disorder.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C26",
+  "file": "Case_26_Narrow_Margin_Lithium_Toxicity_in_Bipolar_Disorder_ANSWER_KEY.docx",
+  "name": "Case_26_Narrow_Margin_Lithium_Toxicity_in_Bipolar_Disorder_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C27",
+  "file": "Case_27_Person_Centered_Dementia_Care_Agitation_Without_Restraints.docx",
+  "name": "Case_27_Person_Centered_Dementia_Care_Agitation_Without_Restraints.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C27",
+  "file": "Case_27_Person_Centered_Dementia_Care_Agitation_Without_Restraints_ANSWER_KEY.docx",
+  "name": "Case_27_Person_Centered_Dementia_Care_Agitation_Without_Restraints_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C28",
+  "file": "Case_28_Honoring_Her_Wishes_Goals_of_Care_at_the_End_of_Life.docx",
+  "name": "Case_28_Honoring_Her_Wishes_Goals_of_Care_at_the_End_of_Life.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C28",
+  "file": "Case_28_Honoring_Her_Wishes_Goals_of_Care_at_the_End_of_Life_ANSWER_KEY.docx",
+  "name": "Case_28_Honoring_Her_Wishes_Goals_of_Care_at_the_End_of_Life_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C29",
+  "file": "Case_29_Behind_Closed_Doors_Recognizing_Intimate_Partner_Violence_in_Pregnancy.docx",
+  "name": "Case_29_Behind_Closed_Doors_Recognizing_Intimate_Partner_Violence_in_Pregnancy.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C29",
+  "file": "Case_29_Behind_Closed_Doors_Recognizing_Intimate_Partner_Violence_in_Pregnancy_ANSWER_KEY.docx",
+  "name": "Case_29_Behind_Closed_Doors_Recognizing_Intimate_Partner_Violence_in_Pregnancy_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C30",
+  "file": "Case_30_Can_He_Afford_to_Recover_Medication_Costs_After_a_Heart_Attack.docx",
+  "name": "Case_30_Can_He_Afford_to_Recover_Medication_Costs_After_a_Heart_Attack.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C30",
+  "file": "Case_30_Can_He_Afford_to_Recover_Medication_Costs_After_a_Heart_Attack_ANSWER_KEY.docx",
+  "name": "Case_30_Can_He_Afford_to_Recover_Medication_Costs_After_a_Heart_Attack_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C31",
+  "file": "Case_31_Speaking_Up_Early_Warning_Scores_SBAR_and_the_Chain_of_Command.docx",
+  "name": "Case_31_Speaking_Up_Early_Warning_Scores_SBAR_and_the_Chain_of_Command.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C31",
+  "file": "Case_31_Speaking_Up_Early_Warning_Scores_SBAR_and_the_Chain_of_Command_ANSWER_KEY.docx",
+  "name": "Case_31_Speaking_Up_Early_Warning_Scores_SBAR_and_the_Chain_of_Command_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C32",
+  "file": "Case_32_Five_Patients_One_Shift_Delegation_and_Prioritization_on_a_Busy_Unit.docx",
+  "name": "Case_32_Five_Patients_One_Shift_Delegation_and_Prioritization_on_a_Busy_Unit.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C32",
+  "file": "Case_32_Five_Patients_One_Shift_Delegation_and_Prioritization_on_a_Busy_Unit_ANSWER_KEY.docx",
+  "name": "Case_32_Five_Patients_One_Shift_Delegation_and_Prioritization_on_a_Busy_Unit_ANSWER_KEY.docx",
+  "kind": "key"
+ },
+ {
+  "id": "S-C33",
+  "file": "Case_33_Breaking_the_Chain_Clostridioides_difficile_and_Infection_Prevention.docx",
+  "name": "Case_33_Breaking_the_Chain_Clostridioides_difficile_and_Infection_Prevention.docx",
+  "kind": "activity"
+ },
+ {
+  "id": "K-C33",
+  "file": "Case_33_Breaking_the_Chain_Clostridioides_difficile_and_Infection_Prevention_ANSWER_KEY.docx",
+  "name": "Case_33_Breaking_the_Chain_Clostridioides_difficile_and_Infection_Prevention_ANSWER_KEY.docx",
+  "kind": "key"
+ }
+]
