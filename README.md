@@ -17,7 +17,7 @@ One installation serves **many colleges**, each with its own address, look, peop
 
 ## What is included
 
-- **33 case-based activities in six units**, each with a patient chart, items with rationales, a student Word activity document (case, patient snapshot, a "recognize cues" worksheet, every item with space for reasoning, reflection) and a faculty answer key. **228 items** in all. Each activity is marked **Apply/Analyze** or **Evaluate/Create**.
+- **34 case-based activities in seven units**, each with a patient chart, items with rationales, a student Word activity document (case, patient snapshot, a "recognize cues" worksheet, every item with space for reasoning, reflection) and a faculty answer key. **247 items** in all. Each activity is marked **Apply/Analyze** or **Evaluate/Create**.
 
 | Unit | Cases |
 |---|---|
@@ -27,8 +27,9 @@ One installation serves **many colleges**, each with its own address, look, peop
 | **4 · Patient-centered care and teaching** | 20 Shared Decision-Making in Hypertension and Kidney Disease, Part 1: Understanding the Person (QSEN patient-centered care) · 21 Part 2: Building the Plan Together · 22 A New Ileostomy: Teaching Self-Care Before Discharge · 23 Too Many Pills: Polypharmacy and Falls in an Older Adult · 24 Yellow on Day 3: Newborn Jaundice and Breastfeeding Support |
 | **5 · Mental health, safety and ethics** | 25 Asking the Hard Question: Suicide Risk After an Intentional Overdose · 26 Narrow Margin: Lithium Toxicity in Bipolar Disorder · 27 Person-Centered Dementia Care: Agitation Without Restraints · 28 Honoring Her Wishes: Goals of Care at the End of Life · 29 Behind Closed Doors: Recognizing Intimate Partner Violence in Pregnancy |
 | **6 · Transitions, teams and systems** | 30 Can He Afford to Recover? Medication Costs After a Heart Attack · 31 Speaking Up: Early Warning Scores, SBAR and the Chain of Command · 32 Five Patients, One Shift: Delegation and Prioritization · 33 Breaking the Chain: Clostridioides difficile and Infection Prevention |
+| **7 · Foundations of medical practice** | 34 Lifting the Load: Back Pain, Stress and a Lunchtime Emergency (one integrated case for the Foundations of Medical Practice course: vertebral column and disc herniation, joints, planes and axes, prime movers, pectoral vs pelvic girdle, biomedical vs biopsychosocial models, psychosocial constructs, HPA axis, normal vs problem behaviour in children, the seven consultation steps and two tracks, BLS assessment and choking, professional conduct) |
 
-- **32 fictional patients** across the lifespan (a 3-day-old newborn to an 86-year-old) in inpatient, emergency and outpatient settings, with diverse names, languages, religions and family situations.
+- **33 fictional patients** across the lifespan (a 3-day-old newborn to an 86-year-old) in inpatient, emergency and outpatient settings, with diverse names, languages, religions and family situations.
 - **Clinical reference**: the clinical judgment model, priority frameworks (ABCs, Maslow, acute vs chronic), SBAR, therapeutic communication techniques and blocks, adult and pediatric reference ranges, and handy rules (MAP, rule of 15, Parkland, maintenance fluids, medication safety).
 - **A small illustration for every case**, coloured by unit, on library cards, assignment pages and the Word documents.
 - **Guides** in `guides/`: Student quick guide, Faculty and admin quick guide, Owner guide and Online program guide (Word).
@@ -98,7 +99,7 @@ docker run -d -p 8080:8080 -v bedsidelab-data:/app/data --name bedsidelab bedsid
 
 ## 5. Rebuilding the content (optional)
 
-The cases are written in `tools/cases/unit1.js` … `unit6.js` (patient charts, items, rationales, model answers). Then:
+The cases are written in `tools/cases/unit1.js` … `unit7.js` (patient charts, items, rationales, model answers). Then:
 
 ```bash
 sh tools/build-all.sh
@@ -108,7 +109,7 @@ sh tools/build-all.sh
 |---|---|
 | `tools/build-content.js` | Converts the authored cases to `tools/cases.json`, validates every item and confirms each key scores full marks (the build fails otherwise). |
 | `tools/build-icons.js`, `build-icon-png.py` | Draw the case illustrations (SVG, and PNG for the Word documents; needs Python Playwright). |
-| `tools/build-docs.js` | Builds the 66 Word documents (student activity + answer key per case). Needs the `docx` npm package. |
+| `tools/build-docs.js` | Builds the 68 Word documents (student activity + answer key per case). Needs the `docx` npm package. |
 | `tools/build-seed.js` | Writes `seed/seed.json`. |
 | `tools/build-guides.js` | Builds the four Word guides. |
 

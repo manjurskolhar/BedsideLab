@@ -6,7 +6,7 @@ const fs = require('fs'), path = require('path');
 const ROOT = path.join(__dirname, '..');
 const { cases } = JSON.parse(fs.readFileSync(path.join(__dirname, 'cases.json'), 'utf8'));
 const OUT = path.join(ROOT, 'public', 'img', 'cases'); fs.mkdirSync(OUT, { recursive: true });
-const UNIT = { 1: ['#0E7C86', '#07474E'], 2: ['#1565A8', '#0B3C6B'], 3: ['#C62839', '#7A1420'], 4: ['#2E7D32', '#1B4D1E'], 5: ['#6A3D8F', '#3E2157'], 6: ['#B26A00', '#6B3F00'] };
+const UNIT = { 1: ['#0E7C86', '#07474E'], 2: ['#1565A8', '#0B3C6B'], 3: ['#C62839', '#7A1420'], 4: ['#2E7D32', '#1B4D1E'], 5: ['#6A3D8F', '#3E2157'], 6: ['#B26A00', '#6B3F00'], 7: ['#3D5A80', '#1F3150'] };
 
 /* icons on a 24 x 24 grid, drawn with white strokes */
 const I = {
@@ -44,9 +44,11 @@ const I = {
   team: '<circle cx="12" cy="6" r="2.5"/><circle cx="5.5" cy="10" r="2"/><circle cx="18.5" cy="10" r="2"/><path d="M8 19a4 4 0 0 1 8 0M2 19a3.5 3.5 0 0 1 6-2.5M22 19a3.5 3.5 0 0 0-6-2.5"/>',
   hands: '<path d="M7 21v-5l-3-4 1.5-1.5L8 13V5.5a1.2 1.2 0 0 1 2.4 0V11"/><path d="M10.4 10V4.5a1.2 1.2 0 0 1 2.4 0V11M12.8 10.5V5.5a1.2 1.2 0 0 1 2.4 0V12"/><path d="M15.2 11V8a1.2 1.2 0 0 1 2.4 0v6c0 3-1.5 5-4 7"/><path d="M19 3.5c-.6.8-1 1.3-1 1.8a1 1 0 0 0 2 0c0-.5-.4-1-1-1.8z"/>',
 };
+/* Case 34: a vertebral column beside a heart (body and mind) */
+I.spineCare = '<rect x="4" y="3" width="5" height="2.6" rx=".8"/><rect x="3.6" y="7" width="5.8" height="2.6" rx=".8"/><rect x="3.6" y="11" width="5.8" height="2.6" rx=".8"/><rect x="4" y="15" width="5" height="2.6" rx=".8"/><path d="M6.5 17.6V21"/><path d="M16.5 11.5c-1-2-4.2-1.7-4.2.7 0 2 4.2 4.4 4.2 4.4s4.2-2.4 4.2-4.4c0-2.4-3.2-2.7-4.2-.7z"/><path d="M13 6h7M16.5 2.5v7"/>';
 const ICON = { C01: 'heartHands', C02: 'speech', C03: 'crescent', C04: 'translate', C05: 'calm', C06: 'spine', C07: 'thermometer', C08: 'heartDrop', C09: 'drop', C10: 'brain', C11: 'kidney',
   C12: 'bloodDrops', C13: 'gauge', C14: 'lungs', C15: 'bloodBag', C16: 'syringe', C17: 'meter', C18: 'inhaler', C19: 'clot', C20: 'people', C21: 'checklist', C22: 'stoma', C23: 'pills',
-  C24: 'baby', C25: 'lifebuoy', C26: 'balance', C27: 'house', C28: 'candle', C29: 'shieldHeart', C30: 'coinPill', C31: 'phoneAlert', C32: 'team', C33: 'hands' };
+  C24: 'baby', C25: 'lifebuoy', C26: 'balance', C27: 'house', C28: 'candle', C29: 'shieldHeart', C30: 'coinPill', C31: 'phoneAlert', C32: 'team', C33: 'hands', C34: 'spineCare' };
 
 for (const c of cases) {
   const unit = +(/Unit (\d)/.exec(c.group) || [0, 1])[1]; const [c1, c2] = UNIT[unit] || UNIT[1];

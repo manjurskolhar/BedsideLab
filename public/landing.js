@@ -41,7 +41,7 @@ const lpLanding = () => `<div class="lp">${lpNav()}
       <h1>Practice clinical judgment on patients who feel real.</h1>
       <p class="lp-lead">${esc(S.site.siteName || 'BedsideLab')} gives every nursing student multi-faceted, holistic patient cases in a training EHR. Students evaluate and organize competing needs by urgency and make simple to complex clinical judgments about their patient's care, just like in practice.</p>
       <div class="row"><a class="btn primary lg" href="#signin" data-act="lp-signin">Sign in</a><a class="btn lg" href="/join">Join a class</a></div>
-      <ul class="lp-proof"><li><b>33</b> case-based activities</li><li><b>228</b> clinical judgment items</li><li><b>6</b> units, Apply/Analyze to Evaluate/Create</li></ul></div>
+      <ul class="lp-proof"><li><b>34</b> case-based activities</li><li><b>247</b> clinical judgment items</li><li><b>7</b> units, Apply/Analyze to Evaluate/Create</li></ul></div>
     <figure class="lp-shot lp-shot-hero"><div class="lp-shot-bar"><i></i><i></i><i></i><span>BedsideLab EHR</span></div><img src="/img/ehr_handoff.jpg" alt="The BedsideLab training EHR showing a patient storyboard and the handoff report" width="1280" height="800"></figure>
   </div></section>
 
@@ -53,7 +53,7 @@ const lpLanding = () => `<div class="lp">${lpNav()}
       ['ear', 'Handoff reports you can hear', 'Each case starts with a shift handoff in the off-going nurse\'s words, with a Listen button, so students practise picking out the cues that matter.'],
       ['bow', 'Next Generation item types', 'Prioritize, matrix, bow-tie, highlight, drop-down (cloze), select all that apply, multiple choice and open responses, mapped to the NCSBN clinical judgment model.'],
       ['grade', 'Scored automatically, explained fully', 'Objective items are scored on save with +/- scoring where the NCLEX uses it. Rationales appear for students once graded (or at once in practice mode).'],
-      ['lib', '33 activities in six units', 'Communication, prioritization, acute deterioration, patient-centered teaching, mental health and ethics, transitions and teamwork, each with a Word activity and a faculty key.'],
+      ['lib', '34 activities in seven units', 'Communication, prioritization, acute deterioration, patient-centered teaching, mental health and ethics, transitions and teamwork, foundations of medical practice, each with a Word activity and a faculty key.'],
       ['book', 'Clinical reference built in', 'The clinical judgment model, priority frameworks, SBAR, therapeutic communication, adult and pediatric reference ranges and handy rules, one click away in every chart.'],
       ['org', 'For many colleges', 'Each college has its own address, logo, colours, faculty, students and patient charts, with student limits and subscription dates managed by the provider.'],
       ['shield', 'Private and secure', 'Role-based access, hashed passwords, students never see keys before grading, and fictional patients only.'],
@@ -80,9 +80,9 @@ const lpLanding = () => `<div class="lp">${lpNav()}
   </div></section>
 
   <section class="lp-band alt" id="library"><div class="lp-in lp-split">
-    <div><span class="lp-eyebrow">Activity library</span><h2>33 cases across the lifespan</h2>
+    <div><span class="lp-eyebrow">Activity library</span><h2>34 cases across the lifespan</h2>
       <p>From a stillbirth on the postpartum unit and a teenager in diabetic ketoacidosis to sepsis after surgery, an interpreter-supported discharge, lithium toxicity, end-of-life care and delegation on a busy unit. Every activity comes with a patient chart, a student Word document, a faculty answer key with rationales, and auto-scored items. Faculty can edit any activity, write new items or build their own patient charts.</p>
-      <table class="lp-table"><tbody>${[['Unit 1 · Communication and noticing cues', 5], ['Unit 2 · Analyzing cues and prioritizing', 6], ['Unit 3 · Taking action in acute situations', 8], ['Unit 4 · Patient-centered care and teaching', 5], ['Unit 5 · Mental health, safety and ethics', 5], ['Unit 6 · Transitions, teams and systems', 4]].map(([g, n]) => `<tr><td>${g}</td><td class="num"><b>${n}</b></td></tr>`).join('')}</tbody></table></div>
+      <table class="lp-table"><tbody>${[['Unit 1 · Communication and noticing cues', 5], ['Unit 2 · Analyzing cues and prioritizing', 6], ['Unit 3 · Taking action in acute situations', 8], ['Unit 4 · Patient-centered care and teaching', 5], ['Unit 5 · Mental health, safety and ethics', 5], ['Unit 6 · Transitions, teams and systems', 4], ['Unit 7 · Foundations of medical practice', 1]].map(([g, n]) => `<tr><td>${g}</td><td class="num"><b>${n}</b></td></tr>`).join('')}</tbody></table></div>
     <figure class="lp-shot"><div class="lp-shot-bar"><i></i><i></i><i></i><span>Activity library</span></div><img src="/img/library.jpg" alt="The activity library" loading="lazy" width="1280" height="800"></figure>
   </div></section>
 
